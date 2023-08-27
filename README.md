@@ -85,7 +85,7 @@ https://www.exploit-db.com/exploits/31965
 
 **FIN**
 
-![FIN.png](https://github.com/joos-net/attacks-on-is/blob/main/FIN.png)
+![FIN.png](https://github.com/joos-net/attacks-on-is/blob/main/FIN1.png)
 
 **Xmas**
 
