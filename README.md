@@ -97,3 +97,4 @@ nmap -sU <ip> - Различные типы UDP сканирования. Бол
 ```
 
 ![UDP.png](https://github.com/joos-net/attacks-on-is/blob/main/udp.png)
+кпр
